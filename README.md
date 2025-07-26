@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Ria Gupta</h1>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Ria Gupta</h1>
 <h3 align="center">Engineering student | ESP32 Enthusiast | AI + Embedded Projects | Chai-Fueled Creator 🍵</h3>
 
 ---
