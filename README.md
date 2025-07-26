@@ -1,62 +1,61 @@
-<h1 align="center">Hi 👋, I'm Ria Gupta</h1>
-<h3 align="center">An Embedded Systems & AI Enthusiast | Chai-fueled Creator ☕🚀</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Engineer+%7C+Innovator+%7C+Code+Builder;AI+%2B+Hardware+%3D+💡Magic;Currently+brewing+V2V+communication+system" alt="Typing SVG" />
-</p>
-
-- 🔭 I’m currently working on **Vehicle-to-Vehicle (V2V) Communication with ESP32**
-- 🤖 Building my own AI Assistant — a mix of hardware, voice, and intelligence
-- 🌱 I’m currently diving deeper into **ESP-NOW, Wi-Fi UDP, and real-time systems**
-- 💬 Ask me about **C++, Python, ESP32, Sensors, and creative debugging**
-- ☕ Chai is my IDE fuel
+<h1 align="center">Hi there 👋, I'm Ria Gupta</h1>
+<h3 align="center">Engineering student | ESP32 Enthusiast | AI + Embedded Projects | Chai-Fueled Creator 🍵</h3>
 
 ---
 
-### 🛠️ Tech Stack
+### 🔭 Current Projects
 
-- 👩‍💻 Languages: **C++, Python, HTML/CSS, JavaScript**
-- ⚡ Boards: **ESP32, Arduino Uno, NodeMCU**
-- 🔌 Tools: **Wokwi, Tinkercad, VS Code, Git**
-- 🧠 AI/ML: **Scikit-learn, OpenAI APIs**
-- 🌐 Other: **Firebase, REST APIs, Linux, MySQL**
+- 🚗 **Vehicle-to-Vehicle (V2V) Collision Warning System**  
+  Real-time communication using ESP32, GPS, and ESP-NOW/WiFi UDP to prevent road accidents.
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ria-gupta&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ria-gupta&layout=compact&theme=radical" height="180" />
-</p>
+- 🤖 **Jarvis – Personal AI Voice Assistant**  
+  Voice-activated assistant using Python, ChatGPT APIs, speech recognition, and hardware controls.
 
 ---
 
-### 🔗 Connect with Me
+### 🌱 Currently Learning
 
-<p align="left">
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:guptaria@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+- ESP-NOW & UDP protocols for real-time communication  
+- Advanced **C++ STL** and **Data Structures**  
+- Python libraries for AI integration  
+- Debugging + simulation on **Wokwi** and **Tinkercad**
 
 ---
 
-> _“Debugging life, one line of code and one cup of chai at a time.”_ 🍵
+### 👯 Looking to Collaborate On
 
-<!--
+- IoT + AI embedded systems  
+- Innovative ESP32 or Arduino-based builds  
+- College-level tech events or open-source hardware projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 Ask Me About
+
+- ESP32, GPS modules, sensor interfacing  
+- C++ for embedded applications  
+- Hardware simulation and prototyping  
+- Python automation & ChatGPT integration
+
+---
+
+### 📫 How to Reach Me
+
+- 📧 Email: `guptaria@example.com`  
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
+- 🛠️ [GitHub Projects](https://github.com/your-username)
+
+---
+
+### 😄 Pronouns
+
+She/Her
+
+---
+
+### ⚡ Fun Fact
+
+Code gets better with every sip of chai 🍵  
+Also: I’ve debugged circuits at 2 AM with a cup in one hand and ESP32 in the other 😄
+
+---
